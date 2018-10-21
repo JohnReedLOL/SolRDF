@@ -4,9 +4,9 @@
 <br/>
 SolRDF (i.e. Solr + RDF) is a set of Solr extensions for managing (index and search) RDF data. Join us at solrdf-user-list@googlegroups.com
 
-- http://lucene.472066.n3.nabble.com/Solr-RDF-SolRDF-td4202693.html
+http://lucene.472066.n3.nabble.com/Solr-RDF-SolRDF-td4202693.html
 
-- https://www.opensemanticsearch.org/connector/rdf
+https://www.opensemanticsearch.org/connector/rdf
 
 [![Continuous Integration status](https://travis-ci.org/agazzarini/SolRDF.svg?branch=master)](https://travis-ci.org/agazzarini/SolRDF)
 
