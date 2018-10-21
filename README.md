@@ -4,11 +4,13 @@
 <br/>
 SolRDF (i.e. Solr + RDF) is a set of Solr extensions for managing (index and search) RDF data. Join us at solrdf-user-list@googlegroups.com
 
-http://lucene.472066.n3.nabble.com/Solr-RDF-SolRDF-td4202693.html
+[![Continuous Integration status](https://travis-ci.org/agazzarini/SolRDF.svg?branch=master)](https://travis-ci.org/agazzarini/SolRDF)
+
+### Links
 
 https://www.opensemanticsearch.org/connector/rdf
 
-[![Continuous Integration status](https://travis-ci.org/agazzarini/SolRDF.svg?branch=master)](https://travis-ci.org/agazzarini/SolRDF)
+http://lucene.472066.n3.nabble.com/Solr-RDF-SolRDF-td4202693.html
 
 # Get me up and running
 This section provides instructions for running SolRDF. We divided the section in two different parts because the different architecture introduced with Solr 5. Prior to that (i.e. Solr 4.x) Solr was distributed as a JEE web application and therefore, being SolRDF a Maven project, you could use Maven for starting up a live instance without downloading Solr (Maven would do that for you, behind the scenes). 
